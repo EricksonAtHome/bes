@@ -7,7 +7,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ![alt text](https://raw.githubusercontent.com/EricksonAtHome/bes/main/20240320100111.png)
 
-23:08:2024  Preview Update
+Use our email framework to send professional emails for the BLACKEYE v3.1 tool. This software is free and enables you to easily send BES framework to tens of thousands of customers for marketing purposes. Please note: only use this tool for marketing purposes or to experiment with its functionality.
 
 ![alt text](https://raw.githubusercontent.com/EricksonAtHome/bes/main/20240320100138.png)
 
